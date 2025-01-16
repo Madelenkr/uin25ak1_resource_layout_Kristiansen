@@ -10,3 +10,37 @@
 
 }
 
+/*Bakgrunnfarge*/
+body {
+    background-color: var(--gray);
+}
+
+nav {
+    text-align:center;
+    padding-top: 200px;
+}
+
+nav li {
+    list-style: none;
+    text-align: center;
+    margin: 5px;
+    display: flex;
+    display: inline;
+}
+
+nav li a{
+    background-color: var(--blue);
+    font-family: Roboto, serif;
+    color: var(--white);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 40px 20px 40px;
+    font-weight: 700;
+  
+}
+
+a:hover {
+    background: var(--white);
+    color: var(--blue);
+
+    }
