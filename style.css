@@ -1,0 +1,12 @@
+/*Hentet Roboto font fra Google*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+/*Fargekoder*/
+:root{
+    --blue: #2a324b;
+    --lightblue: #58699D;
+    --gray: #E1E5EE;
+    --white: #fff;
+
+}
+
