@@ -28,7 +28,7 @@ nav li {
     display: inline;
 }
 
-nav li a{
+nav li {
     background-color: var(--blue);
     font-family: Roboto, serif;
     color: var(--white);
@@ -39,7 +39,7 @@ nav li a{
   
 }
 
-a:hover {
+li:hover {
     background: var(--white);
     color: var(--blue);
 
