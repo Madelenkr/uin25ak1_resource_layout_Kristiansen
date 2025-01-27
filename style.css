@@ -28,7 +28,7 @@ nav li {
     display: inline;
 }
 
-nav li {
+button {
     background-color: var(--blue);
     font-family: Roboto, serif;
     color: var(--white);
@@ -36,10 +36,11 @@ nav li {
     font-size: 20px;
     padding: 20px 40px 20px 40px;
     font-weight: 700;
+    border: none;
   
 }
 
-li:hover {
+button:hover {
     background: var(--white);
     color: var(--blue);
 
