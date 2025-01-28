@@ -21,7 +21,7 @@ nav {
 }
 
 nav li {
-    list-style: none;
+    
     margin: 5px;
     display: flex;
     display: inline;
@@ -56,10 +56,8 @@ article {
 }
 
 a {
-    list-style-type: circle;
     color: var(--lightblue);
     display: flex;
-    list-style-type: circle;
     
 }
 .item {
