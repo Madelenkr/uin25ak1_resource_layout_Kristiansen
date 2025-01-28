@@ -30,7 +30,7 @@ function myFunction(navn) {
                     
                     <ul class="linker">
                         ${selectedCategory.sources.map(source =>
-                        `<li><a href ="${source.url}">${source.title} </a> </li>`)}
+                        `<li><a href ="${source.url}">${source.title} </a> </li>`).join("")}
                     </ul>
                 </article>`
 

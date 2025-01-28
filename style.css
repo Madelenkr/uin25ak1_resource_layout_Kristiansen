@@ -60,7 +60,7 @@ a {
     color: var(--lightblue);
     display: flex;
     list-style-type: circle;
-
+    
 }
 .item {
     color: var(--blue);
