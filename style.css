@@ -22,7 +22,6 @@ nav {
 
 nav li {
     list-style: none;
-    text-align: center;
     margin: 5px;
     display: flex;
     display: inline;
@@ -45,3 +44,30 @@ button:hover {
     color: var(--blue);
 
     }
+
+article {
+    background-color: var(--white);
+    font-family: Roboto, serif;
+    padding-top: 4rem;
+    margin-left: 286px;
+    margin-right: 286px;
+    text-align: left;
+    padding: 3rem;
+}
+
+a {
+    list-style-type: circle;
+    color: var(--lightblue);
+    display: flex;
+    list-style-type: circle;
+
+}
+.item {
+    color: var(--blue);
+}
+
+#topptext {
+    font-weight: bold;
+ 
+}
+
